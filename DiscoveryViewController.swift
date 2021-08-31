@@ -1,13 +1,4 @@
-//
-//  DiscoveryViewController.swift
-//  Pokedex
-//
-//  Created by Martin García on 7/25/21.
-//
 
-
-// origin/bootcamp/day
-// https://bit.ly/3fjvtLb
 import UIKit
 import SwiftUI
 
