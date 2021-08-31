@@ -1,9 +1,4 @@
-//
-//  DetailViewModel.swift
-//  Pokedex
-//
-//  Created by Martin García on 8/1/21.
-//
+
 import Foundation
 
 protocol DetailViewModelProtocol {
